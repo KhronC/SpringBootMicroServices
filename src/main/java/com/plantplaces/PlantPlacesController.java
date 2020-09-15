@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author Administrator
  *Handle the /start endpoint
  *@return
+ *test
  */
 @Controller
 public class PlantPlacesController {
