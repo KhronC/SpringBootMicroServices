@@ -16,7 +16,7 @@ public class PlantPlacesController {
 	public String Start(){
 		
 		return "start";
-	
+
 	}
 
 	@RequestMapping("/")
